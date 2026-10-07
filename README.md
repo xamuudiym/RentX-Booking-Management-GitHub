@@ -1,1 +1,1 @@
-# RentX-Booking-Management-GitHub
+# RentX-Booking-Management
