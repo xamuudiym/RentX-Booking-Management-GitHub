@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RentX - Rent Smart. Book Fast.</title>
+
+https://fonts.googleapis.com
+https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap
+
+style.css
+</head>
+<body>
+
+<header>
+    <div class="logo">
+        Rent<span>X</span>
+    </div>
+
+    <nav>
+        #Home</a>
+        #Cars</a>
+        #Houses</a>
+        #Hotels</a>
+        #Equipment</a>
+        #Contact</a>
+    </nav>
+
+    <div class="auth">
+        <button class="login">Login</button>
+        <button class="signup">Sign Up</button>
+    </div>
+</header>
+
+<section class="hero">
+
+    <div class="overlay"></div>
+
+    <div class="hero-content">
+
+        <p class="location">MOGADISHU, SOMALIA</p>
+
+        <h1>
+            Rent Smart.<br>
+            Book Fast.<br>
+            Powered by <span>AI.</span>
+        </h1>
+
+        <p class="subtitle">
+            Find cars, houses, apartments, hotels and equipment
+            across Mogadishu in seconds.
+        </p>
+
+        <div class="booking-box">
+
+            <div class="tabs">
+                <button class="active">Cars</button>
+                <button>Houses</button>
+                <button>Hotels</button>
+                <button>Equipment</button>
+            </div>
+
+            <div class="search-grid">
+
+                <input type="text" placeholder="Location">
+
+                <input type="date">
+
+                <input type="date">
+
+                <select>
+                    <option>Category</option>
+                    <option>Car</option>
+                    <option>House</option>
+                    <option>Apartment</option>
+                </select>
+
+            </div>
+
+            <button class="search-btn">
+                Find Available Rentals
+            </button>
+
+        </div>
+
+        <div class="features">
+
+            <div class="feature">
+                ✅ Verified Listings
+            </div>
+
+            <div class="feature">
+                🔒 Secure Payments
+            </div>
+
+            <div class="feature">
+                ⚡ Instant Booking
+            </div>
+
+            <div class="feature">
+                🤖 AI Support
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+</body>
+</html>
